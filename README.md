@@ -1,2 +1,1 @@
 # Tri-ngulo
-alguma coisa!
